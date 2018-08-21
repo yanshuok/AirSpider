@@ -1,0 +1,2 @@
+yum install fontconfig
+libfontconfig cause unexpectly closed
