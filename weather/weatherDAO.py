@@ -2,9 +2,10 @@ from sqlalchemy import Column, String, Integer, create_engine, DateTime, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 from datetime import datetime
+import utils.CONST as const
 Base = declarative_base()
 
-engine = create_engine('mysql+pymysql://root:ys1234ys@localhost:3306/air_bj')
+engine = create_engine(const.database)
 DBSession = sessionmaker(bind=engine)
 
 class Weather(Base):
@@ -28,7 +29,7 @@ class Station(Base):
 
 def getUrls():
     session = DBSession()
-    stations = session.query(Station, Station.id, Station.href).all()
+    stations = session.query(Station, Station.id, Station.href).filter(Station.href!=None).all()
     session.close()
     return stations
 
@@ -41,5 +42,4 @@ def insertWeahter24h(weathers):
 
 if __name__ == '__main__':
     for x in getUrls():
-        print(x.id)
-
+        print(x)

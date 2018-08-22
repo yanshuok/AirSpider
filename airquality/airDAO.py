@@ -2,8 +2,9 @@ from sqlalchemy import Column, String, Integer, create_engine, DateTime, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 from datetime import datetime
+import utils.CONST as const
 Base = declarative_base()
-engine = create_engine('mysql+pymysql://root:ys1234ys@localhost:3306/air_bj')
+engine = create_engine(const.database)
 DBSession = sessionmaker(bind=engine)
 class AirQuality(Base):
     __tablename__ = 'airquality'
