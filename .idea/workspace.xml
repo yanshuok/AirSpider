@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0a1f8ac-ae9f-42f5-8e09-06f5eed33346" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/utils/CONST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visibility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visibility/visibilityDAO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visibility/visibilityMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airquality/AirQualityMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/airquality/AirQualityMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airquality/airDAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/airquality/airDAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airquality/ghostdriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/airquality/ghostdriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ghostdriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/ghostdriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainFunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainFunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/weatherDAO.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/weatherDAO.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/weatherMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/weatherMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibility/visibilityMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/visibility/visibilityMain.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +29,7 @@
     <SUITE FILE_PATH="coverage/AirQualitySpider$weatherDAO.coverage" NAME="weatherDAO Coverage Results" MODIFIED="1487906299475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
     <SUITE FILE_PATH="coverage/AirQualitySpider$DAO__1_.coverage" NAME="DAO (1) Coverage Results" MODIFIED="1487902803387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
     <SUITE FILE_PATH="coverage/AirSpider$weatherMain.coverage" NAME="weatherMain Coverage Results" MODIFIED="1534863319164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weather" />
-    <SUITE FILE_PATH="coverage/AirSpider$visibilityMain.coverage" NAME="visibilityMain Coverage Results" MODIFIED="1534920800561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visibility" />
+    <SUITE FILE_PATH="coverage/AirSpider$visibilityMain.coverage" NAME="visibilityMain Coverage Results" MODIFIED="1534924160790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visibility" />
     <SUITE FILE_PATH="coverage/AirQualitySpider$AirQuality.coverage" NAME="AirQuality Coverage Results" MODIFIED="1487899286475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AirSpider$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1534914474094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AirSpider$visibilityDAO.coverage" NAME="visibilityDAO Coverage Results" MODIFIED="1534920075652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visibility" />
@@ -55,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="59" />
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -63,7 +52,7 @@
       <file leaf-file-name="weatherDAO.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weather/weatherDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
+            <state relative-caret-position="112">
               <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="19" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
@@ -76,16 +65,16 @@
         <entry file="file://$PROJECT_DIR$/utils/CONST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainFunc.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mainFunc.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainFunc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -96,7 +85,7 @@
       <file leaf-file-name="AirQualityMain.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/airquality/AirQualityMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
+            <state relative-caret-position="160">
               <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
@@ -108,7 +97,7 @@
       <file leaf-file-name="visibilityDAO.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visibility/visibilityDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259">
+            <state relative-caret-position="24">
               <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
@@ -120,7 +109,7 @@
       <file leaf-file-name="weatherMain.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weather/weatherMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="184">
               <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -129,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visibilityMain.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="visibilityMain.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/visibility/visibilityMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="279">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -144,7 +133,7 @@
       <file leaf-file-name="airDAO.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/airquality/airDAO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="1200">
               <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
               <folding>
                 <element signature="e#0#78#0" expanded="true" />
@@ -211,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,14 +232,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AirVisbilitySpider" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -273,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mainFunc">
+  <component name="RunManager" selected="Python.visibilityMain">
     <configuration name="AirQualityMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AirQualitySpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -450,8 +439,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mainFunc" />
         <item itemvalue="Python.visibilityMain" />
+        <item itemvalue="Python.mainFunc" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.visibilityDAO" />
         <item itemvalue="Python.AirQualityMain" />
@@ -482,7 +471,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3295583" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27882037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28284183" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -750,10 +739,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather/weatherDAO.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="19" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airquality/airDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
           </folding>
@@ -763,60 +759,33 @@
     <entry file="file://$PROJECT_DIR$/utils/CONST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/weather/weatherDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/airquality/airDAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        <state relative-caret-position="112">
+          <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="19" />
           <folding>
             <element signature="e#0#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visibility/visibilityMain.py">
+    <entry file="file://$PROJECT_DIR$/mainFunc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/weatherMain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visibility/visibilityDAO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/airquality/AirQualityMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
+        <state relative-caret-position="160">
           <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
@@ -824,12 +793,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainFunc.py">
+    <entry file="file://$PROJECT_DIR$/visibility/visibilityDAO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="24">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/weatherMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visibility/visibilityMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
