@@ -12,10 +12,10 @@ def _format_addr(s):
 def send(m):
     msg = MIMEText(m, 'plain', 'utf-8')
 
-    from_addr = '1076169409@qq.com'
-    password = 'LacusClyne'
-    auth_code = 'tnswjpeumgnkgjdj'
-    to_addr = 'yanshuok@163.com'
+    from_addr = '****'
+    password = '***'
+    auth_code = '***'
+    to_addr = '***'
     SMTP_Server = 'smtp.qq.com'
 
     msg['From'] = _format_addr('爬虫云服务 <%s>' % from_addr)
